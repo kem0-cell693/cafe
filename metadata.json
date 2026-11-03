@@ -1,0 +1,6 @@
+{
+  "name": "Café",
+  "description": "A premium, modern, and visually distinctive website for Café featuring single-origin coffee, ceremonial matcha, artisanal pastries, and an architectural sanctuary.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
